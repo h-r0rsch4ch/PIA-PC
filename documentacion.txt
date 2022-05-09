@@ -1,0 +1,47 @@
+DOCUMENTACION PIA
+
+El proyecto fue desarrollado para poder acceder de forma sencilla a multiples herramientas
+relacionadas a la Ciberseguridad.
+
+INSTRUCCIONES DE INSTALACION
+
+    Requisitos:
+    PIP [21.3.1]
+    Requests [2.26.0]
+    BeautifulSoup4 [4.9.3]
+    pyHunter [1.7]
+    Pillow [8.4.0]
+    PyPDF2 [1.26.0]
+    VirusTotal API [1.1.11]
+    Modulos descargados del repositorio de GitHub.
+*Si no se cuenta con algun modulo de los anteriomente mencionados ejecuta el siguiente codigo:
+    pip install -r requirements.txt
+
+FUNCIONAMIENTO
+
+El proyecto cuenta con 6 herramientas para usar. La linea de codigo para ver la ayuda es:
+    python main.py -h
+
+Los siguientes comandos son ejemplos mas especificos de como usar cada herramienta:
+    WebScrapping:
+        python main.py -w
+    
+    Envio de correos:
+        python main.py -c
+        Despues de ejecutar el comando hay que rellenar el formulario que se solicita.
+    
+    DNS:
+        python main.py -d [IP a analizar (Puerta de enlace predeterminada)]
+    
+    Hunter:
+        python main.py -k [API Key de HUNTER] -t [docuemento txt con correos a investigar]
+
+    Metadatos:
+        python main.py -m [Ruta de la carpeta con los archivos a analizar]
+        *Solo funciona con archivos .jpg y .pdf
+
+    VirusTotal:
+        python main.py -a [API Key de VirusTotal] -tv [archivo txt con las urls a analizar]
+
+CODIGO FUENTE
+    GitHub: https://github.com/h-r0rsch4ch/PIA-PC/

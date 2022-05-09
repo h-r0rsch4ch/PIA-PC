@@ -1,0 +1,8 @@
+8c39bc508b8cb6f36345689aa8a8edb11a37a2850caacea4caf0427bad4ce849 C:\Users\Jair\Desktop\Tareas\PC\PIA\PIA-PC\requirements.txt
+eedbfa3cc5280d3e492a3fa840cbf9417256482ce82f22756448eccac59ff137 C:\Users\Jair\Desktop\Tareas\PC\PIA\PIA-PC\correos.py
+2083f3ad9a5ae471deac13c4db0f960f7f34f8ff54685085245a76736d664a88 C:\Users\Jair\Desktop\Tareas\PC\PIA\PIA-PC\hunter.py
+478ed55f6451d380b72665a9e7a2ba0c44ccdadb9dc3ed4969e9da0c33af2b81 C:\Users\Jair\Desktop\Tareas\PC\PIA\PIA-PC\main.py
+1dd6d574902b133d64587c843aa4509f7fc2e91c122b2ab0b6912febdd0553ea C:\Users\Jair\Desktop\Tareas\PC\PIA\PIA-PC\metadatos.py
+9f78ea672b645930c22742d41da649034d6d0242d76b37cc4a41e446165a77cc C:\Users\Jair\Desktop\Tareas\PC\PIA\PIA-PC\vTotal.py
+63b1e40d1b2d705ba0aa5e0e2f056d9fe73bc309d3bf9a7993f946aca6015526 C:\Users\Jair\Desktop\Tareas\PC\PIA\PIA-PC\webScrapping.py
+653c4fa6c3dc896deb69da326d0fcbdcbdf75c9566c5dc7fad71c2f8cbe88ac2 C:\Users\Jair\Desktop\Tareas\PC\PIA\PIA-PC\documentacion.txt
