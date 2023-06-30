@@ -3,6 +3,6 @@ requests==2.26.0
 beautifulsoup4==4.9.3
 pyhunter==1.7
 Pillow==8.4.0
-PyPDF2==1.26.0
+PyPDF2==1.27.9
 virustotal_api==1.1.11
 
